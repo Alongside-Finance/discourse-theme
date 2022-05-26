@@ -4,9 +4,11 @@
   max-width: unset;
   color: var(--primary);
   h1 {
+    font-family: Aeonik;
     font-size: 4em;
   }
   p {
+    font-family: Aeonik;
     font-size: 1.25em !important;
     font-weight: bold;
     margin-bottom: 1em;
@@ -526,3 +528,4 @@ html body #main-outlet {
 * {
     font-family: Aeonik;
 } 
+h1, h2, h3, h4, h5, h6 {font-family:Aeonik;}

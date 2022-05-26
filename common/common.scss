@@ -4,23 +4,9 @@
   max-width: unset;
   color: var(--primary);
   h1 {
-    font-family: Aeonik;
     font-size: 4em;
   }
-  h2 {
-    font-family: Aeonik;
-  }
-  h3 {
-    font-family: Aeonik;
-  }
-  h4 {
-    font-family: Aeonik;
-  }
-  h5 {
-    font-family: Aeonik;
-  }
   p {
-    font-family: Aeonik;
     font-size: 1.25em !important;
     font-weight: bold;
     margin-bottom: 1em;
@@ -537,7 +523,6 @@ html body #main-outlet {
   src: url('Aeonik-Regular.otf') format('otf')
 }
 
-body {
+* {
     font-family: Aeonik;
-    font-size: 15px;
 } 
